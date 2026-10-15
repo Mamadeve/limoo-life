@@ -1,0 +1,7 @@
+{
+  "name": "Limoo Life",
+  "description": "وب‌اپلیکیشن رسمی لیمو لایف با تجربه تمام صفحه، دسترسی آفلاین و اعلان‌های هوشمند",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
